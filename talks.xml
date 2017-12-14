@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <Talks>
+    <Talk>"Writing Fast Tests Against Enterprise Rails 60min"</Talk>
+    <Talk>"Overdoing it in Python 45min"</Talk>
+    <Talk>"Lua for the Masses 30min"</Talk>
+    <Talk>"Ruby Errors from Mismatched Gem Versions 45min"</Talk>
+    <Talk>"Common Ruby Errors 45min"</Talk>
+    <Talk>"Rails for Python Developers lightning"</Talk>
+    <Talk>"Communicating Over Distance 60min"</Talk>
+    <Talk>"Accounting-Driven Development 45min"</Talk>
+    <Talk>"Woah 30min"</Talk>
+    <Talk>"Sit Down and Write 30min"</Talk>
+    <Talk>"Pair Programming vs Noise 45min"</Talk>
+    <Talk>"Rails Magic 60min"</Talk>
+    <Talk>"Ruby on Rails: Why We Should Move On 60min"</Talk>
+    <Talk>"Clojure Ate Scala (on my project) 45min"</Talk>
+    <Talk>"Programming in the Boondocks of Seattle 30min"</Talk>
+    <Talk>"Ruby vs. Clojure for Back-End Development 30min"</Talk>
+    <Talk>"Ruby on Rails Legacy App Maintenance 60min"</Talk>
+    <Talk>"A World Without HackerNews 30min"</Talk>
+    <Talk>"User Interface CSS in Rails Apps 30min"</Talk>
+  </Talks>
