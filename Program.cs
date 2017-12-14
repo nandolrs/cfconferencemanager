@@ -8,75 +8,10 @@ namespace ConferenceManagement
 {
     class Program
     {
-        static public void metodo11()
-        {
-            string x = Console.ReadLine();
-            Console.WriteLine(x);
-        }
-
-        static public void  Metodo12()
-        {
-            string x = Console.ReadLine();
-            char[] y = x.ToCharArray();
-            int z1 = int.Parse(y[0].ToString());
-            int z2 = int.Parse(y[2].ToString());
-            int z3 = int.Parse(y[5].ToString());
-            int w = (z1 + z2 + z3)/3;
-            Console.WriteLine(w);
-
-
-        }
-
-        static public void Metodo13()
-        {
-            string x = Console.ReadLine();
-            string frase = "";
-            if (int.Parse(x) % 1 == 0 && int.Parse(x) % int.Parse(x) == 0)
-                frase = "primo";
-            else
-                frase = "nao primo";
-
-
-
-            Console.WriteLine(frase);
-
-
-        }
-        static public void Metodo14()
-        {
-            string x = Console.ReadLine();
-            int y = int.Parse(x);
-            int w = y;
-            for (int z = y-1; z > 0; z--)
-            {
-                w = w * z;
-            }
-            if (y == 0) { w = 1; }
-            Console.WriteLine(w);
-
-
-        }
-
-        static public void Metodo1()
-        {
-            string x = Console.ReadLine();
-            int y = int.Parse(x);
-            int w = 1;
-            Console.WriteLine(w);
-            for (int z = 1; z <= y+1; z++)
-            {
-                w = w + z-1;
-                Console.WriteLine(w);
-            }
-
-
-        }
 
 
         static void Main(string[] args)
         {
-
-            Metodo1();
 
 
             // trata a entrada de dados respectivamente por lista ou por teckado: -l <lista> OU  -k 
